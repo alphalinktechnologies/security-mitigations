@@ -13,4 +13,4 @@ Run the following one-liner in the terminal of the target server.
 **Note:** You must have sudo privileges to run this command.
 
 ```bash
-curl -sSL [https://raw.githubusercontent.com/alphalinktechnologies/security-mitigations/main/copy_fail_mitigation.sh](https://raw.githubusercontent.com/alphalinktechnologies/security-mitigations/main/copy_fail_mitigation.sh) | sudo bash
+curl -sSL https://raw.githubusercontent.com/alphalinktechnologies/security-mitigations/main/copy_fail_mitigation.sh | sudo bash
